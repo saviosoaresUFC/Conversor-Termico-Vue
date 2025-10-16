@@ -23,7 +23,4 @@ A tarefa é **portar essa aplicação para Vue 3 + TypeScript**, utilizando:
 
 ## 🌟 Desafio extra
 - Mostrar uma mensagem de erro se o usuário digitar um valor inválido.
-  - Apenas a escala Kelvin possui um limite inferior que é 0.  
-
-## 🚚 Entrega
-- Ao finalinzar o desenvolvimento não se esqueça de preencher o [relatório de entrega](https://forms.gle/wJgX9sXyRaYj52Cb7)
+  - Apenas a escala Kelvin possui um limite inferior que é 0.
