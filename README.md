@@ -1,5 +1,4 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21101269)
-# Exercício 1 – Portando aplicação para Vue + TypeScript
+# Portando aplicação para Vue + TypeScript
 
 ## 🎯 Objetivo
 Praticar os fundamentos do Vue 3 com TypeScript, entendendo como transformar uma aplicação em JavaScript puro em uma aplicação baseada em componentes reativos.
@@ -23,4 +22,4 @@ A tarefa é **portar essa aplicação para Vue 3 + TypeScript**, utilizando:
 
 ## 🌟 Desafio extra
 - Mostrar uma mensagem de erro se o usuário digitar um valor inválido.
-  - Apenas a escala Kelvin possui um limite inferior que é 0.
+- Apenas a escala Kelvin possui um limite inferior que é 0.
